@@ -1,2 +1,2 @@
 # DevOps
-This repo contains basics of DevOps
+This repo contains the basics of DevOps

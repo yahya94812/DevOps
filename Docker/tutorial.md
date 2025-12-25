@@ -1,3 +1,6 @@
+* Dockerfile: is the blue print of image
+* image is the actual storage or collection of files
+* container is the running image
 # Docker 
 1. sudo docker --version
 2. sudo systemctl status docker
@@ -68,3 +71,4 @@ Immutable: Once an image is built, it is immutable, meaning it cannot be changed
 Portable: Images are designed to be portable, allowing you to build an image once and run it consistently across different environments, including your local machine, cloud platforms, or other servers.
 Template for containers: An image is the foundation from which Docker containers are launched. When you run an image, it becomes a running instance called a container.
 Stored in registries: Docker images are typically stored in registries, such as Docker Hub, which serve as central repositories for sharing and distributing images.
+

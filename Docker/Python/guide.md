@@ -1,0 +1,1 @@
+use sudo docker run -it py after building the image with sudo docker build -t py .
